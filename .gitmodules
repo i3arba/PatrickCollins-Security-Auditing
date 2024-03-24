@@ -7,6 +7,3 @@
 [submodule "tincho-challenge/lib/forge-std"]
 	path = tincho-challenge/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
-[submodule "2024-03-HalbornCTF/lib/forge-std"]
-	path = 2024-03-HalbornCTF/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std
